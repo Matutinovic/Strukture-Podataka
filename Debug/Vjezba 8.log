@@ -1,0 +1,23 @@
+﻿  Binary_tree.c
+C:\Users\tonim\source\repos\Vjezba 8\Vjezba 8\Binary_tree.c(58,38): warning C4047: '=': 'Position' differs in levels of indirection from 'int'
+C:\Users\tonim\source\repos\Vjezba 8\Vjezba 8\Binary_tree.c(139,14): warning C4047: 'return': 'int' differs in levels of indirection from 'Position'
+C:\Users\tonim\source\repos\Vjezba 8\Vjezba 8\Binary_tree.c(142,36): warning C4047: 'function': 'Position' differs in levels of indirection from 'int'
+C:\Users\tonim\source\repos\Vjezba 8\Vjezba 8\Binary_tree.c(142,30): warning C4024: 'DeleteElement': different types for formal and actual parameter 1
+C:\Users\tonim\source\repos\Vjezba 8\Vjezba 8\Binary_tree.c(142,48): warning C4047: 'function': 'int' differs in levels of indirection from 'Position'
+C:\Users\tonim\source\repos\Vjezba 8\Vjezba 8\Binary_tree.c(142,42): warning C4024: 'DeleteElement': different types for formal and actual parameter 2
+C:\Users\tonim\source\repos\Vjezba 8\Vjezba 8\Binary_tree.c(142,49): warning C4047: '=': 'Position' differs in levels of indirection from 'int'
+C:\Users\tonim\source\repos\Vjezba 8\Vjezba 8\Binary_tree.c(145,37): warning C4047: 'function': 'Position' differs in levels of indirection from 'int'
+C:\Users\tonim\source\repos\Vjezba 8\Vjezba 8\Binary_tree.c(145,31): warning C4024: 'DeleteElement': different types for formal and actual parameter 1
+C:\Users\tonim\source\repos\Vjezba 8\Vjezba 8\Binary_tree.c(145,50): warning C4047: 'function': 'int' differs in levels of indirection from 'Position'
+C:\Users\tonim\source\repos\Vjezba 8\Vjezba 8\Binary_tree.c(145,43): warning C4024: 'DeleteElement': different types for formal and actual parameter 2
+C:\Users\tonim\source\repos\Vjezba 8\Vjezba 8\Binary_tree.c(145,51): warning C4047: '=': 'Position' differs in levels of indirection from 'int'
+C:\Users\tonim\source\repos\Vjezba 8\Vjezba 8\Binary_tree.c(153,44): warning C4047: 'function': 'Position' differs in levels of indirection from 'int'
+C:\Users\tonim\source\repos\Vjezba 8\Vjezba 8\Binary_tree.c(153,36): warning C4024: 'DeleteElement': different types for formal and actual parameter 1
+C:\Users\tonim\source\repos\Vjezba 8\Vjezba 8\Binary_tree.c(153,57): warning C4047: 'function': 'int' differs in levels of indirection from 'Position'
+C:\Users\tonim\source\repos\Vjezba 8\Vjezba 8\Binary_tree.c(153,50): warning C4024: 'DeleteElement': different types for formal and actual parameter 2
+C:\Users\tonim\source\repos\Vjezba 8\Vjezba 8\Binary_tree.c(153,58): warning C4047: '=': 'Position' differs in levels of indirection from 'int'
+C:\Users\tonim\source\repos\Vjezba 8\Vjezba 8\Binary_tree.c(166,13): warning C4047: 'return': 'int' differs in levels of indirection from 'Position'
+  main.c
+  Generating Code...
+C:\Users\tonim\source\repos\Vjezba 8\Vjezba 8\Binary_tree.c(65): warning C4715: 'Menu': not all control paths return a value
+  Vjezba 8.vcxproj -> C:\Users\tonim\source\repos\Vjezba 8\Debug\Vjezba 8.exe
