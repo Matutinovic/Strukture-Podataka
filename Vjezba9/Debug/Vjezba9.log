@@ -1,0 +1,9 @@
+﻿  BinaryTree.c
+C:\Users\tonim\source\repos\Vjezba9\BinaryTree.c(84,25): warning C4133: '=': incompatible types - from 'StackPosition' to 'Position'
+C:\Users\tonim\source\repos\Vjezba9\BinaryTree.c(125,19): warning C4133: '=': incompatible types - from 'Position' to 'StackPosition'
+C:\Users\tonim\source\repos\Vjezba9\BinaryTree.c(151,13): warning C4047: 'return': 'Position' differs in levels of indirection from 'int'
+C:\Users\tonim\source\repos\Vjezba9\BinaryTree.c(178,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tonim\source\repos\Vjezba9\BinaryTree.c(185,13): warning C4047: 'return': 'Position' differs in levels of indirection from 'int'
+  Main.c
+  Generating Code...
+  Vjezba9.vcxproj -> C:\Users\tonim\source\repos\Vjezba9\Debug\Vjezba9.exe
