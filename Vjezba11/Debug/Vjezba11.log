@@ -1,0 +1,5 @@
+﻿  HashTable.c
+  Main.c
+C:\Users\student\source\repos\Vjezba11\Vjezba11\Main.c(25,13): warning C4013: 'strcmp' undefined; assuming extern returning int
+  Generating Code...
+  Vjezba11.vcxproj -> C:\Users\student\source\repos\Vjezba11\Debug\Vjezba11.exe

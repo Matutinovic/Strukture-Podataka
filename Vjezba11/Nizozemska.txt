@@ -1,0 +1,3 @@
+Amsterdam 750000
+Rotterdam 580000
+Hag 480000
